@@ -1,2 +1,2 @@
 # Qiskit-Hands-on1
-My hands-on for qiskit
+Implementation of X, H, Z, CNOT, and Bell state circuits using Qiskit.
